@@ -1,0 +1,14 @@
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net8.0\OperatorOverloadExample.exe
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net8.0\OperatorOverloadExample.deps.json
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net8.0\OperatorOverloadExample.runtimeconfig.json
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net8.0\OperatorOverloadExample.dll
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\bin\Debug\net8.0\OperatorOverloadExample.pdb
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net8.0\OperatorOverloadExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net8.0\OperatorOverloadExample.AssemblyInfoInputs.cache
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net8.0\OperatorOverloadExample.AssemblyInfo.cs
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net8.0\OperatorOverloadExample.csproj.CoreCompileInputs.cache
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net8.0\OperatorOverloadExample.dll
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net8.0\refint\OperatorOverloadExample.dll
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net8.0\OperatorOverloadExample.pdb
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net8.0\OperatorOverloadExample.genruntimeconfig.cache
+C:\Users\zains\OneDrive\Desktop\C# for Beginners\OperatorOverloadExample\OperatorOverloadExample\obj\Debug\net8.0\ref\OperatorOverloadExample.dll
